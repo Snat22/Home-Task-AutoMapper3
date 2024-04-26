@@ -222,3 +222,14 @@ C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\WebApi\obj\Debug\net
 C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\WebApi\obj\Debug\net8.0\WebApi.pdb
 C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 C:\Users\user\Desktop\Ak.Nurullo\Akay Qurbonalli\AutoMapper\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\Администратор\Desktop\AutoMapper\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\AutoMapper\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\AutoMapper\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\AutoMapper\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\AutoMapper\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\AutoMapper\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Администратор\Desktop\AutoMapper\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Администратор\Desktop\AutoMapper\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
+C:\Users\Администратор\Desktop\AutoMapper\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\Администратор\Desktop\AutoMapper\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\Администратор\Desktop\AutoMapper\WebApi\obj\Debug\net8.0\WebApi.pdb

@@ -3,6 +3,7 @@ using Domain.DTOs.CourseDTO;
 using Domain.DTOs.GroupDTO;
 using Domain.DTOs.MentorDTO;
 using Domain.DTOs.StudentDTO;
+using Domain.DTOs.TimeTableDtos;
 using Domain.Entities;
 
 namespace Infrastructure.AutoMapper;
@@ -14,15 +15,22 @@ public class MapperProfile:Profile
         CreateMap<Student, AddStudentDto>().ReverseMap();
         CreateMap<Student, GetStudentDto>().ReverseMap();
         CreateMap<Student, UpdateStudentDto>().ReverseMap();
+
         CreateMap<Mentor,AddMentorDTO>().ReverseMap();
         CreateMap<Mentor,GetMentorDTO>().ReverseMap();
         CreateMap<Mentor,UpdateMentorDTO>().ReverseMap();
+
         CreateMap<Course,AddCourseDTO>().ReverseMap();
         CreateMap<Course,GetCourseDTO>().ReverseMap();
         CreateMap<Course,UpdateCourseDTO>().ReverseMap();
+
         CreateMap<Group,AddGroupDTO>().ReverseMap();
         CreateMap<Group,GetGroupDTO>().ReverseMap();
         CreateMap<Group,UpdateGroupDTO>().ReverseMap();
+        
+        CreateMap<TimeTable,AddTimeTableDto>().ReverseMap();
+        CreateMap<TimeTable,GetTimeTableDto>().ReverseMap();
+        CreateMap<TimeTable,UpdateTimeTableDto>().ReverseMap();
         
         
         

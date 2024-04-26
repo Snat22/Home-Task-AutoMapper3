@@ -5,6 +5,7 @@ using Infrastructure.Services.CourseService;
 using Infrastructure.Services.GroupService;
 using Infrastructure.Services.MentorService;
 using Infrastructure.Services.StudentService;
+using Infrastructure.Services.TimeTableServices;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -23,7 +24,7 @@ builder.Services.AddScoped<IStudentService, StudentService>();
 builder.Services.AddScoped<IGroupService,GroupService>();
 builder.Services.AddScoped<IMentorService,MentorService>();
 builder.Services.AddScoped<ICourseService,CourseService>();
-
+builder.Services.AddScoped<ITimeTableSrvice,TimeTableService>();
 
 
 
